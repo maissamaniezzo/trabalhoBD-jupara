@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="juparaPU" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+		<class>br.edu.unifei.ecot13.especie.Arranha</class>
+		<class>br.edu.unifei.ecot13.especie.Ataque</class>
+		<class>br.edu.unifei.ecot13.especie.Aticado</class>
+		<class>br.edu.unifei.ecot13.especie.CaracteristicasFisiscas</class>
+		<class>br.edu.unifei.ecot13.especie.Femea</class>
+		<class>br.edu.unifei.ecot13.especie.Genero</class>
+		<class>br.edu.unifei.ecot13.especie.Humor</class>
+		<class>br.edu.unifei.ecot13.especie.Irritado</class>
+		<class>br.edu.unifei.ecot13.especie.Jupara</class>
+		<class>br.edu.unifei.ecot13.especie.Macho</class>
+		<class>br.edu.unifei.ecot13.especie.Segurar</class>
+		<class>br.edu.unifei.ecot13.especie.Tranquilo</class>
+		<class>br.edu.unifei.ecot13.grupo.Ameaca</class>
+		<class>br.edu.unifei.ecot13.grupo.Cativeiro</class>
+		<class>br.edu.unifei.ecot13.grupo.Desmatamento</class>
+		<class>br.edu.unifei.ecot13.grupo.Doenca</class>
+		<class>br.edu.unifei.ecot13.grupo.Grupo</class>
+		<class>br.edu.unifei.ecot13.grupo.Habitat</class>
+		<class>br.edu.unifei.ecot13.grupo.Natural</class>
+		<class>br.edu.unifei.ecot13.grupo.Predador</class>
+        <properties>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jupara?useTimezone=true&amp;serverTimezone=UTC"/>
+            <property name="javax.persistence.jdbc.user" value="jupara"/>
+            <property name="javax.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
+            <property name="javax.persistence.jdbc.password" value="jupara"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MariaDBDialect"/>
+            <property name="javax.persistence.schema-generation.database.action" value="none"/>
+
+
+			<!-- 
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:oracle:thin:@localhost:1521:xe" />
+			<property name="javax.persistence.jdbc.user" value="C##ELEICAO" />
+			<property name="javax.persistence.jdbc.driver"
+				value="oracle.jdbc.OracleDriver" />
+			<property name="javax.persistence.jdbc.password"
+				value="C##ELEICAO" />
+			<property name="hibernate.dialect"
+				value="org.hibernate.dialect.Oracle12cDialect" />
+			-->
+        </properties>
+    </persistence-unit>
+</persistence>

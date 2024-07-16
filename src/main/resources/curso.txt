@@ -1,0 +1,51 @@
+Administração
+Agronomia
+Arquitetura
+Arquivologia
+Biblioteconomia
+Biomedicina
+Ciências Biológicas
+Ciências contábeis
+Ciências da Computação
+Ciências econômicas
+Ciências Sociais
+Comunicação social
+Design
+Direito
+Educação Física
+Enfermagem
+Engenharia Civil
+Engenharia de Alimentos
+Engenharia de Computação
+Engenharia de Materiais
+Engenharia de Minas e Meio Ambiente
+Engenharia Elétrica
+Engenharia Mecânica
+Engenharia Química
+Engenharia Sanitária
+Estatística
+Farmácia
+Filosofia
+Física
+Fisioterapia
+Fonoaudiologia
+Geografia
+História
+Letras
+Matemática
+Medicina
+Medicina Veterinária
+Música
+Nutrição
+Odontologia
+Pedagogia
+Psicologia
+Química
+Relações internacionais
+Secretariado executivo
+Serviço Social
+Sistemas de Informação
+Teatro
+Terapia Ocupacional
+Turismo
+Zootecnia

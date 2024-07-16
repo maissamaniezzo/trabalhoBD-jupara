@@ -1,0 +1,81 @@
+Geraldo Mesquita	PMDB
+Marina Silva	PV
+Tião Viana	PT
+Fernando Collor	PTB
+João Tenório	PSDB
+Renan Calheiros	PMDB
+Gilvam Borges	PMDB
+José Sarney	PMDB
+Papaléo Paes	PSDB
+João Pedro Gonçalves da Costa	PT
+Arthur Virgílio	PSDB
+Jefferson Praia	PDT
+Antônio Carlos Magalhães Júnior	DEM
+César Borges	PR
+João Durval	PDT
+Inácio Arruda	PCdoB
+Patrícia Saboya Gomes	PSB
+Tasso Jereissati	PSDB
+Adelmir Santana	DEM
+Cristovam Buarque	PDT
+Gim Argello	PTB
+Magno Malta	PR
+Gérson Camata	PMDB
+Renato Casagrande	PSB
+Demóstenes Torres	DEM
+Lúcia Vânia	PSDB
+Marconi Perillo	PSDB
+Edison Lobão Filho	PMDB
+Epitácio Cafeteira	PTB
+Mauro Fecury	PMDB
+Jayme Campos	DEM
+Gilberto Goellner	DEM
+Serys Slhessarenko	PT
+Delcídio Amaral	PT
+Marisa Serrano	PSDB
+Válter Pereira	PMDB
+Eduardo Azeredo	PSDB
+Eliseu Resende	DEM
+Wellington Salgado de Oliveira	PMDB
+Flexa Ribeiro	PSDB
+José Nery Azevedo	PSOL
+Mário Couto	PSDB
+Cícero Lucena	PSDB
+Efraim Morais	DEM
+Roberto Cavalcanti	PRB
+Álvaro Dias	PSDB
+Flávio Arns	PSDB
+Osmar Dias	PDT
+Jarbas Vasconcelos	PMDB
+Marco Maciel	DEM
+Sérgio Guerra	PSDB
+Heráclito Fortes	DEM
+João Vicente Claudino	PTB
+Mão Santa	PSC
+Francisco Dornelles	PP
+Marcelo Crivella	PRB
+Paulo Duque	PMDB
+Garibaldi Alves Filho	PMDB
+José Agripino	DEM
+Rosalba Ciarlini	DEM
+Paulo Paim	PT
+Pedro Simon	PMDB
+Sérgio Zambiasi	PTB
+Acir Gurgacz	PDT
+Fátima Cleide	PT
+Valdir Raupp	PMDB
+Augusto Botelho	PT
+Mozarildo Cavalcanti	PTB
+Romero Jucá	PMDB
+Ideli Salvatti	PT
+Neuto de Conto	PMDB
+Raimundo Colombo	DEM
+Aloizio Mercadante	PT
+Eduardo Suplicy	PT
+Romeu Tuma	PTB
+Almeida Lima	PMDB
+Antônio Carlos Valadares	PSB
+Virginio de Carvalho	PSC
+João Ribeiro	PR
+Kátia Abreu	DEM
+Leomar Quintanilha	PT

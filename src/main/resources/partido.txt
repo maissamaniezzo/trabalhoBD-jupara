@@ -1,0 +1,28 @@
+Partido do Movimento Democrático Brasileiro	PMDB
+Partido Trabalhista Brasileiro	PTB
+Partido Democrático Trabalhista	PDT
+Partido dos Trabalhadores	PT
+Democratas	DEM
+Partido Comunista do Brasil	PCdoB
+Partido Socialista Brasileiro	PSB
+Partido da Social Democracia Brasileira	PSDB
+Partido Trabalhista Cristão	PTC
+Partido Social Cristão	PSC
+Partido da Mobilização Nacional	PMN
+Partido Republicano Progressista	PRP
+Partido Popular Socialista	PPS
+Partido Verde	PV
+Partido Trabalhista do Brasil	PTdoB
+Partido Renovador Trabalhista Brasileiro	PRTB
+Partido Progressista	PP
+Partido Socialista dos Trabalhadores Unificado	PSTU
+Partido Comunista Brasileiro	PCB
+Partido Humanista da Solidariedade	PHS
+Partido Social Democrata Cristão	PSDC
+Partido da Causa Operária	PCO
+Partido Trabalhista Nacional	PTN
+Partido Social Liberal	PSL
+Partido Republicano Brasileiro	PRB
+Partido Socialismo e Liberdade	PSOL
+Partido da República	PR
+Partido dos Aposentados da Nação	PAN
